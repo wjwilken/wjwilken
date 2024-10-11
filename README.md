@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- PhD student at the University of Michigan.
+- Labour and development economics.
+- R and Julia.
